@@ -1,5 +1,10 @@
+
+
+
+import { Button } from "./_components/ui/button";
+
 const Nome = () => {
-  return <h1>Home Page</h1>
+  return <Button>Teste</Button>
 }
 
 export default Nome;
