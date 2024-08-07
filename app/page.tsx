@@ -1,10 +1,7 @@
-
-
-
-import { Button } from "./_components/ui/button";
+import { Button } from "./_components/ui/button"
 
 const Nome = () => {
   return <Button>Teste</Button>
 }
 
-export default Nome;
+export default Nome
